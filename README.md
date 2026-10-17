@@ -1,9 +1,9 @@
 # Hola, soy Xavi Bolívar
 
-IT Director en [Electric Automation Network](https://www.electricautomationnetwork.com) (Valencia). Construyo cosas para entenderlas y después las explico, con el código delante: IA con método, Go y herramientas propias.
+IT Director en [Electric Automation Network](https://www.electricautomationnetwork.com) (Valencia). Programo desde los doce años y llevo más de treinta trabajando en informática; aquí y en mi blog comparto conocimiento y experiencia sobre IA con método, Go y herramientas propias.
 
 - 🌐 **[xavi.net](https://xavi.net)** — quién soy y qué hago
-- ✍️ **[Blog](https://xavi.net/blog/)** — IA, software y lo que aprendo montándolo
+- ✍️ **[Blog](https://xavi.net/blog/)** — conocimiento y experiencia sobre agentes de IA, software e infraestructura
 - 💼 [LinkedIn](https://www.linkedin.com/in/xavibj/)
 - ✉️ [xavi@xavi.net](mailto:xavi@xavi.net)
 
